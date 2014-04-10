@@ -1,3 +1,6 @@
+@author Venkatesh Yeluri
+@version 1.0 April 10, 2014
+
 #!/bin/bash
 #PBS -N L
 #PBS -q fast
